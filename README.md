@@ -37,4 +37,4 @@ dotnet add package Microsoft.AspNetCore.Mvc.NewtonsoftJson --version 8.*
 dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL --version 8.*
 dotnet add package Microsoft.EntityFrameworkCore.Design --version 8.*
 dotnet add package Swashbuckle.AspNetCore --version 6.*
-dotnet add package BCrypt.Net-Next --version 4.* (для хэширования паролей)
+dotnet add package BCrypt.Net-Next --version 4.* 
